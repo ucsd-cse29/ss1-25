@@ -2,7 +2,8 @@
 
 # UCSD CSE29 Summer Session 1 Syllabus and Logistics
 
-[Joe Gibbs Politz](https://jpolitz.github.io) (Instructor)
+- [Olivia Weng](https://www.oliviaweng.com/) (Instructor)
+- [Joe Gibbs Politz](https://jpolitz.github.io) (Instructor)
 
 [Basics](#basics) -
 [Staff &amp; Resources](#staff-resources) -
