@@ -9,8 +9,9 @@ CSE29 introduces you to systems programming: 1) the basics of how programs
 execute on a computer, 2) programming in C with direct access to memory and
 system calls, 3) software tools to manage and interact with code and programs.
 
-This is a placeholder page; don't rely on information here until this message
-lists that information is official.
+This is a placeholder FAQ page for now; at the start of the summer session this
+page will become the official syllabus with links to readings, assignments, and
+policies.
 
 ## FAQ/AFQ (Anticipated Frequent Questions)
 
