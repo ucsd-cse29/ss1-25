@@ -22,10 +22,11 @@ Politz is remote. The one taught by Olivia Weng (listed as “Staff” as of
 writing this FAQ) is in-person. The course content is essentially the same: we
 will share materials (and this website!).
 
-**Q: Will the in-person section actually be remote even though it doesn't say so?**
+**Q: Will the in-person section actually be partially or fully remote even
+though it doesn't say so?**
 
-No, you should expect to be able to pass that version of the course if you
-aren't available for the in-person components.
+No. You **must plan to be available for the in-person components** to pass the
+class for the in-person section.
 
 **Q: Is Joe's section fully remote?**
 
