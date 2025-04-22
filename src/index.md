@@ -59,3 +59,9 @@ screenshare and sharing your webcam; group activities in lab and lecture may
 require that you work in groups and cameras will be expected to be on to
 facilitate high-quality discussion.
 
+**Q: Is there a syllabus listing the topics covered in this course that I can
+show my department/school/institution?**
+
+Yes, the content will be similar to the Fall 2024 version:
+[https://ucsd-cse29.github.io/fa24/](https://ucsd-cse29.github.io/fa24/), and
+that page has the relevant course outcome and syllabus information.
