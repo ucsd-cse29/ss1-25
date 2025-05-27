@@ -15,12 +15,20 @@ policies.
 
 ## FAQ/AFQ (Anticipated Frequent Questions)
 
+
 **Q: Is the course remote?**
 
 There are two offerings of the course. The one taught by Joseph (Joe) Gibbs
 Politz is remote. The one taught by Olivia Weng (listed as “Staff” as of
 writing this FAQ) is in-person. The course content is essentially the same: we
 will share materials (and this website!).
+
+**Q: Will the content differ across the sections?**
+
+The assignments, lab content, and exams will be the same or equivalent across
+the sections. Lectures will differ in style according to modality and
+instructor but follow the same content. The only formal difference is modality
+(in-person vs. remote), not content.
 
 **Q: Will the in-person section actually be partially or fully remote even
 though it doesn't say so?**
