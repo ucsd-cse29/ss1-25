@@ -81,5 +81,8 @@ all the needed links) so you can be up to speed if you do get a spot. This is
 aligned with [official department
 policy](https://cse.ucsd.edu/undergraduate/spring-2025-undergraduate-course-updates#LateAddPolicy).
 
+We can't make accurate predictions about chances of getting into the course
+from a specific waitlist position, or control that process as instructors.
+
 As of early June, there are plenty of available spots in the in-person section!
 
