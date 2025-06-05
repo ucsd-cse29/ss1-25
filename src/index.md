@@ -73,3 +73,13 @@ show my department/school/institution?**
 Yes, the content will be similar to the Fall 2024 version:
 [https://ucsd-cse29.github.io/fa24/](https://ucsd-cse29.github.io/fa24/), and
 that page has the relevant course outcome and syllabus information.
+
+**Q: I am waitlisted for one of the sections at position N. What should I do?**
+
+Come to class and do all the work as usual (you will have Canvas access to get
+all the needed links) so you can be up to speed if you do get a spot. This is
+aligned with [official department
+policy](https://cse.ucsd.edu/undergraduate/spring-2025-undergraduate-course-updates#LateAddPolicy).
+
+As of early June, there are plenty of available spots in the in-person section!
+
