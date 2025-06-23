@@ -13,6 +13,54 @@ This is a placeholder FAQ page for now; at the start of the summer session this
 page will become the official syllabus with links to readings, assignments, and
 policies.
 
+## Grading
+
+The three main course components have achievement levels to get an A, B, or C in
+the course. You must reach that achievement level in _all_ of the categories to
+get an A, B, or C.
+
+- **A** achievement:
+    - 11 lab points (3 possible per lab across 5 labs)
+    - 11 problem set points (3 possible per problem set across 5 weeks)
+    - 5 total exam points (2 possible per exam across 3 exams)
+- **B** achievement:
+    - 9 lab points
+    - 9 problem set points
+    - 4 total exam points
+- **C** achievement:
+    - 7 lab points
+    - 7 problem set points
+    - 3 total exam points
+
+Lecture participation impacts your grade seaprately. First, calculate your
+letter grade from above. Then apply:
+
+- `+` grade modifier: 9-10 lectures (A section), 13-15 lectures (B section)
+- no grade modifier: 7-8 lectures (A section), 10-12 lectures (B section)
+- `-` grade modifier: 5-6 lectures (A section), 7-9 lectures (B section)
+- One letter grade lower: 0-4 lectures (A section), 0-6 lectures (B section)
+
+- A+ grade example:
+    - Lab scores: 1, 3, 2, 3, 2 (11)
+    - Problem set scores: 3, 3, 2, 3, 3 (14)
+    - Exam scores: 2, 2, 1 (5)
+    - Lecture participation: 9 (in A section)
+- B+ grade example:
+    - Lab scores: 2, 2, 2, 2, 1 (9)
+    - Problem set scores: 3, 3, 3, 3, 3 (15) 
+    - Exam scores: 2, 1, 1 (4)
+    - Lecture participation: 13 (in B section)
+- C- grade example:
+    - Lab scores: 3, 2, 3, 2, 0 (10)
+    - Problem set scores: 1, 2, 3, 3, 3 (12) 
+    - Exam scores: 1, 1, 1 (3)
+    - Lecture participation: 7 (in B section)
+- F grade example:
+    - Lab scores: 2, 2, 2, 2, 1 (9)
+    - Problem set scores: 3, 3, 3, 3, 3 (15) 
+    - Exam scores: 1, 0, 1 (2)
+    - Lecture participation: 5 (in A section)
+
 ## FAQ/AFQ (Anticipated Frequent Questions)
 
 
