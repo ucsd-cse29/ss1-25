@@ -191,6 +191,83 @@ the grades they earned.
 Individual assignments describe policies specific to the assignment. Some
 general policies for the course are here.
 
+### Problem Sets and Academic Integrity
+
+We encourage you to do all the work on problem set programming yourself. They
+are meant to prepare you for productive learning in lab and to provide practice
+of the skills you need to demonstrate during exams.
+
+Though we discourage you using it as a way to get started, you're welcome to
+explore how an AI assistant would approach the problem set problems (though no
+support for doing this is available directly in PrairieLearn). Doing so _after_
+you've already completed a problem is likely a good way to learn. It's likely
+that some of the problems will have verbatim solutions provided by things like
+ChatGPT. We generally won't try to figure out if you used an AI system to
+complete the problem sets.
+
+You're welcome to discuss the problem set problems with other students. You will
+probably learn the most if you complete most or all of the solution before
+talking to other students about their approach.
+
+We offer the following metaphor as guidance for your learning:
+
+Consider physical conditioning, let's take jogging in particular. There are many
+machines in the world that are remarkably effective at moving people around:
+cars for example. Driving a car for a few miles gets you to your destination
+more quickly and less sweatily than running a few miles, but completely misses
+the point of the run. The goal of running for fitness has nothing to do with
+getting to a destination and everything to do with the changes that happen
+_inside your body_. Many people can run the same miles on the same track and see
+the benefits from it, despite them all doing the same work that a machine could
+have done.
+
+Similar comparisons make sense for learning to play an instrument, or upskill at
+games like billiards, darts, or Fortnite.
+
+The same goes for the programming problems. The answers to the problems are
+known, or close-to-known, and many tools exist that can generate them. We assign
+them not because knowing a solution is particularly important, but because _the
+act of creating the solution changes you_.
+
+Finally, because it's useful to have it written down, even if banal: It's
+against course policy to directly copy code from someone else and submit it, or
+to have someone else complete or provide code for your assignment.
+
+### Exams and Academic Integrity
+
+It is a violation of academic integrity to share details of _your_ exam with
+others until after you receive your grade for it. Keep in mind that the exams
+are randomized to discourage casual cheating, so your exam may not be the same
+one that others see.  It is a violation of academic integrity to communicate
+with anyone other than the official proctors during the exam, or to use devices
+other than the ones you are using to complete the exam.
+
+### Lab and Professionalism
+
+Lab work will be highly collaborative, and designed to encourage communication
+between students. Some of the activities will have you talk to other students,
+or exchange code, ideas, or commands with other students, and write down what
+happened.
+
+In all of this communication, remember to be polite, professional, and focus on
+the work. A huge part of the job of a working software professional or
+researcher is professional and clear communication.
+
+Some tricks for this: avoid statements that reference the author of the code,
+frame negative feedback as possible improvements or ways your expectations were
+violated, and take responsibility for anything you don't understand.
+
+Examples:
+
+- Don't say “You made a mistake here: ...” Instead say “On line I expect the condition to be true but I think it will be false because XYZ ... we could demonstrate that by doing ABC.”
+- Don't say “It seems like you don't know about...”, instead say “On line 10-12, these 3 lines could be shortened into one line using `grep -r` instead of `find` followed by `grep`: ....” And use some judgment: it's likely that some of this advice is helpful and constructive, and some of it is just showing off.
+- Don't say “This code is (going to be) slow...” Instead wait until you can run it and try an example that demonstrates it “This code took 10 seconds to run for input XYZ and that seems like a lot. When we were writing ... I think I noticed that we did X, if we did Y instead I think it will go faster
+- Don't say “That conditional is ugly:...” Instead say “I find it easier to read these conditions when they are written as .... because ...” If you don't have a good explanation to put after the “because”, how do you know it's a good suggestion? Refer also to the advice about not showing off
+- Don't say “You wrote lines 20-24 very confusingly.” Instead say “I'm having trouble understanding lines 20-24. It would help me to work through an example of how that part is supposed to work”
+
+It's a violation of course policy to make up interactions that didn't
+happen and report them in running lab notes or documents.
+
 
 
 ## FAQ/AFQ (Anticipated Frequent Questions)
