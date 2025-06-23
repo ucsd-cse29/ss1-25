@@ -1,4 +1,4 @@
-![doodle](./doodle.jpg)
+![doodle](./doodle.png)
 
 # UCSD CSE29 Summer Session 1 Syllabus and Logistics
 
@@ -9,9 +9,22 @@ CSE29 introduces you to systems programming: 1) the basics of how programs
 execute on a computer, 2) programming in C with direct access to memory and
 system calls, 3) software tools to manage and interact with code and programs.
 
-This is a placeholder FAQ page for now; at the start of the summer session this
-page will become the official syllabus with links to readings, assignments, and
-policies.
+## <a name="basics"></a> Basics
+
+- Lecture
+    - Section A (Joe): Tue/Thu 11am-1:50pm on Zoom (link on Canvas)
+    - Section B (Olivia): Mon/Tue/Wed/Thu 11am-12:20pm in [CSB (Cognitive Science Building)](https://map.concept3d.com/?id=1005#!m/237176?share) 004
+- Labs
+    - Section A (Joe): Wed 10am-1:50pm (link on Canvas)
+    - Section B (Olivia): Wed 2pm-5:50pm in [CSE](https://map.concept3d.com/?id=1005#!m/164780?share) B250
+- Exams and final exam: See [exams](#exams) below
+- Professor office hours: TBD
+- Office hours: TBD
+- Q&A forum: [Piazza](https://piazza.com/class/mc9db96ku3v39f/)
+- Textbook/readings:
+  - Required (and free): [Dive Into Systems](https://diveintosystems.org/book/), plus additional readings we will assign (all free/online)
+  - Recommended/helpful (and free): [MIT Missing Semester](https://missing.csail.mit.edu/)
+  - Not free but pretty cheap: [Julia Evans Zines](https://wizardzines.com/), especially [The Pocket Guide to Debugging](https://wizardzines.com/zines/debugging-guide/)
 
 ## Course Components
 
@@ -172,6 +185,13 @@ the grades they earned.
     - Problem set scores: 3, 3, 3, 3, 3 (15) 
     - Exam scores: 1, 0, 1 (2)
     - Lecture participation: 5 (in A section)
+
+## Policies
+
+Individual assignments describe policies specific to the assignment. Some
+general policies for the course are here.
+
+
 
 ## FAQ/AFQ (Anticipated Frequent Questions)
 
