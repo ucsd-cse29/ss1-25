@@ -13,6 +13,105 @@ This is a placeholder FAQ page for now; at the start of the summer session this
 page will become the official syllabus with links to readings, assignments, and
 policies.
 
+## Course Components
+
+There are several components to the course:
+
+- **Problem Sets**
+- **Lab sessions**
+- **Exams**
+- **Lecture sessions**
+
+
+### Problem Sets
+
+In weeks 2, 3, 4, and 5 there will be a _problem set_ due before lab. These will
+be hosted on PrairieLearn and consist mostly of small, self-contained
+programming problems for you to complete.
+
+These serve a few purposes:
+
+1. They are practice for you. Developing small programs from scratch is not just
+conceptually important, it is important for your eyes, fingers, and brain to
+learn to coordinate on common patterns in writing and running code.
+2. They will be integral parts of lab. In week 2-4 we will use some of the
+solutions to the problem sets as building blocks for the programs we create in
+lab.
+3. They are practice for the exams, both in content and format. The exams in
+this course will focus on writing programs and using software tools in a
+controlled environment, and that environment is shared between the problem sets
+and exams.
+
+### Lab Sessions
+
+The course's lab component meets for 4 hours. In each lab you'll switch between
+working on your own, working in pairs, and participating in group discussions
+about your approach, lessons learned, programming problems, and so on.
+
+Each lab has a dual theme:
+
+- Combining small functions and programs from the week's practice into a larger
+  application
+- Learning development tools and techniques for managing, debugging, and
+  testing your codebases
+
+The lab sessions and groups will be led by TAs and tutors, who will note your
+participation in these discussions for credit. Note that you must
+**participate**, not merely **attend**, for credit. You will get a score of 0,
+1, 2, or 3 at the end of each lab based on you and your group's participation
+and completion of the lab activities.
+
+If you miss lab, you'll still be held accountable for understanding the
+relevant material via Exams and Assignments. You can miss one lab without it
+impacting your grade (see [Grading](#grading) below). There is no way to make
+up a lab, even for illness, travel, or emergencies. My preference would be to
+require all 5 labs for an A, and have some kind of excused absences. However,
+tracking excused absences doesn't really scale, so the “one for any reason”
+policy is how we handle it. You don't need to justify your missed labs. Contact
+the instructor if you'll miss more than 1 lab for unavoidable reasons.
+
+### Exams
+
+The exams will be administered through
+[PrairieLearn](https://www.prairielearn.com/about) and be similar in format to
+the problem sets.
+
+There are 3 exams during the quarter in weeks 2-4. On each you'll get a **Full
+Pass** (2 points), **Partial Pass** (1 point), or
+**Try Again** (0 points) as your score.
+
+We don't have a traditionally-scheduled final exam for this course (you can
+ignore the block provided in Webreg).  Instead, in the last few days of the
+summer session, you'll have the opportunity to retake **up to two** of the exams
+from during the quarter to improve your score up to a **Full Pass** regardless
+of the score on the first attempt. The questions on the retakes may be different
+than the original exam, but will test the same learning outcomes. This is also
+the only make-up option for missed exams during the quarter: if you miss an exam
+for any reason it will be scored as 0, and you can use one of your retake
+opportunities on that exam.
+
+For the in-person section, exams will be proctored through the [Triton Testing
+Center CBTF](https://tritontesting.ucsd.edu/cbtf/index.html). For the remote
+section, your exams will be proctored on Zoom. Detailed instructions will come
+before the week 2 exam. For remote exams, you should make sure you have _two_
+devices available: one that can be logged into Zoom with a camera pointed at
+your physical workspace (this can be a phone or tablet), and one that you will
+use to complete the exam.
+
+### Lecture Sessions
+
+Lecture sessions will be a mix of presenting content, Q&A, and time for you to
+work alone or in groups on problems from problem sets with follow-up Q&A.
+
+Participation will be graded (see [Grading](#grading) below). Actual
+participation activities may vary from session to session, and may include:
+
+- Submitting something on PrairieLearn that we worked on in the lecture session
+- Submitting something in the live Zoom chat or similar Q&A tool
+- Answering a question/making a contribution when called on/at some point during
+a session
+
+
 ## Grading
 
 The three main course components have achievement levels to get an A, B, or C in
@@ -21,15 +120,15 @@ get an A, B, or C.
 
 - **A** achievement:
     - 11 lab points (3 possible per lab across 5 labs)
-    - 11 problem set points (3 possible per problem set across 5 weeks)
+    - 10 problem set points (3 possible per problem set across 4 weeks)
     - 5 total exam points (2 possible per exam across 3 exams)
 - **B** achievement:
     - 9 lab points
-    - 9 problem set points
+    - 8 problem set points
     - 4 total exam points
 - **C** achievement:
     - 7 lab points
-    - 7 problem set points
+    - 6 problem set points
     - 3 total exam points
 
 Lecture participation impacts your grade seaprately. First, calculate your
@@ -39,6 +138,19 @@ letter grade from above. Then apply:
 - no grade modifier: 7-8 lectures (A section), 10-12 lectures (B section)
 - `-` grade modifier: 5-6 lectures (A section), 7-9 lectures (B section)
 - One letter grade lower: 0-4 lectures (A section), 0-6 lectures (B section)
+
+We may also make decisions about +/- modifiers around the boundaries of the
+grade categories. This will be done at the end of the quarter at instructor
+discretion, and will be consistent across all students.
+
+Requests to change this grading policy (for a specific student or class-wide)
+will be denied with a link to this syllabus section. Consider this: we may, as
+instructors, decide for academic reasons that the most accurate way of assigning
+letter grades in the class needs to change (and we tend to only make changes
+that improve letter grades relative to this starting policy). However, it would
+be inappropriate for us to do so in response to student requests: that could
+create an appearance that we give students the grades they ask for rather than
+the grades they earned.
 
 - A+ grade example:
     - Lab scores: 1, 3, 2, 3, 2 (11)
