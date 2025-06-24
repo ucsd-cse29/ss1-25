@@ -33,8 +33,7 @@ system calls, 3) software tools to manage and interact with code and programs.
 - **Readings**
   - [The UNIX Command Line](https://diveintosystems.org/book/Appendix2/cmdln_basics.html)
   - [Arrays and Strings (In C)](https://diveintosystems.org/book/C1-C_intro/arrays_strings.html)
-  - [Binary and Data Representaion (Sec 4.1-4.6)](https://diveintosystems.org/book/C4-Binary/bases.html)
-
+  - [Binary and Data Representation (Sec 4.1-4.6)](https://diveintosystems.org/book/C4-Binary/bases.html)
 
 
 ## Course Components
