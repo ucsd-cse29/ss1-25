@@ -26,6 +26,17 @@ system calls, 3) software tools to manage and interact with code and programs.
   - Recommended/helpful (and free): [MIT Missing Semester](https://missing.csail.mit.edu/)
   - Not free but pretty cheap: [Julia Evans Zines](https://wizardzines.com/), especially [The Pocket Guide to Debugging](https://wizardzines.com/zines/debugging-guide/)
 
+## Schedule
+
+### Week 1
+
+- **Readings**
+  - [The UNIX Command Line](https://diveintosystems.org/book/Appendix2/cmdln_basics.html)
+  - [Arrays and Strings (In C)](https://diveintosystems.org/book/C1-C_intro/arrays_strings.html)
+  - [Binary and Data Representaion (Sec 4.1-4.6)](https://diveintosystems.org/book/C4-Binary/bases.html)
+
+
+
 ## Course Components
 
 There are several components to the course:
@@ -170,10 +181,10 @@ get an A, B, or C.
 Lecture participation impacts your grade seaprately. First, calculate your
 letter grade from above. Then apply:
 
-- `+` grade modifier: 9-10 lectures (A section), 13-15 lectures (B section)
-- no grade modifier: 7-8 lectures (A section), 10-12 lectures (B section)
-- `-` grade modifier: 5-6 lectures (A section), 7-9 lectures (B section)
-- One letter grade lower: 0-4 lectures (A section), 0-6 lectures (B section)
+- `+` grade modifier: 9-10 lectures (A section), 17-20 lectures (B section)
+- no grade modifier: 7-8 lectures (A section), 13-16 lectures (B section)
+- `-` grade modifier: 5-6 lectures (A section), 9-12 lectures (B section)
+- One letter grade lower: 0-4 lectures (A section), 0-8 lectures (B section)
 
 We may also make decisions about +/- modifiers around the boundaries of the
 grade categories. This will be done at the end of the quarter at instructor
@@ -230,7 +241,7 @@ complete the problem sets.
 
 You're welcome to discuss the problem set problems with other students. You will
 probably learn the most if you complete most or all of the solution before
-talking to other students about their approach.
+talking to other students about their approach. Again, we recommend that you do the problems on your own before discussing.
 
 We offer the following metaphor as guidance for your learning:
 
