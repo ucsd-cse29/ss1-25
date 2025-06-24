@@ -38,9 +38,9 @@ There are several components to the course:
 
 ### Problem Sets
 
-In weeks 2, 3, 4, and 5 there will be a _problem set_ due before lab. These will
-be hosted on PrairieLearn and consist mostly of small, self-contained
-programming problems for you to complete.
+In weeks 2, 3, 4, and 5 there will be a _problem set_ due the morning before
+lab. These will be hosted on PrairieLearn and consist mostly of small,
+self-contained programming problems for you to complete.
 
 These serve a few purposes:
 
@@ -55,11 +55,27 @@ this course will focus on writing programs and using software tools in a
 controlled environment, and that environment is shared between the problem sets
 and exams.
 
+Problem set scores are 0, 1, 2, or 3. Specific rubrics and cutoffs for the
+grades will be explained with each problem set, but generally getting all
+questions fully correct yields a 3, around 75% complete and correct results in a
+2, some correct and complete work (but not nothing) results in a 1, and no work
+results in a 0.
+
+**Late or Missed Work**: Problem sets have an initial deadline the day of lab.
+After the initial deadline, a resubmission assignment will be opened that is
+available until the end of the quarter. The resubmission assignment may have
+additional work beyond the original problem set. If you scored a 2 on the
+original submission, a perfect score on the resubmission can raise your grade to
+3. If you scored 0 or 1 on the initial submisison, the resubmission score can be
+at most 2.
+
 ### Lab Sessions
 
 The course's lab component meets for 4 hours. In each lab you'll switch between
 working on your own, working in pairs, and participating in group discussions
-about your approach, lessons learned, programming problems, and so on.
+about your approach, lessons learned, programming problems, and so on. There
+will be breaks (we don't expect you to focus for 4 hours straight), but we do
+expect your engagement throughout the times we are working.
 
 Each lab has a dual theme:
 
@@ -72,12 +88,14 @@ The lab sessions and groups will be led by TAs and tutors, who will note your
 participation in these discussions for credit. Note that you must
 **participate**, not merely **attend**, for credit. You will get a score of 0,
 1, 2, or 3 at the end of each lab based on you and your group's participation
-and completion of the lab activities.
+and completion of the lab activities. 
 
-If you miss lab, you'll still be held accountable for understanding the
-relevant material via Exams and Assignments. You can miss one lab without it
-impacting your grade (see [Grading](#grading) below). There is no way to make
-up a lab, even for illness, travel, or emergencies. My preference would be to
+**Late or Missed Labs**: Being late to lab or leaving early can
+result in a score below 3 depending on its impact on the group and what was
+missed. If you miss lab, you'll still be held accountable for understanding the
+relevant material (via exams). You can miss one lab without it
+impacting your grade (see [Grading](#grading) below). There is no way to make up
+a lab, even for illness, travel, or emergencies. My preference would be to
 require all 5 labs for an A, and have some kind of excused absences. However,
 tracking excused absences doesn't really scale, so the “one for any reason”
 policy is how we handle it. You don't need to justify your missed labs. Contact
@@ -98,10 +116,7 @@ ignore the block provided in Webreg).  Instead, in the last few days of the
 summer session, you'll have the opportunity to retake **up to two** of the exams
 from during the quarter to improve your score up to a **Full Pass** regardless
 of the score on the first attempt. The questions on the retakes may be different
-than the original exam, but will test the same learning outcomes. This is also
-the only make-up option for missed exams during the quarter: if you miss an exam
-for any reason it will be scored as 0, and you can use one of your retake
-opportunities on that exam.
+than the original exam, but will test the same learning outcomes. 
 
 For the in-person section, exams will be proctored through the [Triton Testing
 Center CBTF](https://tritontesting.ucsd.edu/cbtf/index.html). For the remote
@@ -110,6 +125,11 @@ before the week 2 exam. For remote exams, you should make sure you have _two_
 devices available: one that can be logged into Zoom with a camera pointed at
 your physical workspace (this can be a phone or tablet), and one that you will
 use to complete the exam.
+
+**Missed Exams**: The retake policy above is
+the only make-up option for missed exams during the quarter: if you miss an exam
+for any reason it will be scored as 0, and you can use one of your retake
+opportunities on that exam.
 
 ### Lecture Sessions
 
@@ -123,6 +143,9 @@ participation activities may vary from session to session, and may include:
 - Submitting something in the live Zoom chat or similar Q&A tool
 - Answering a question/making a contribution when called on/at some point during
 a session
+
+**Missed Lectures**: Missed lecture participation cannot be re-earned (see
+Grading for impacts on your grade).
 
 
 ## Grading
