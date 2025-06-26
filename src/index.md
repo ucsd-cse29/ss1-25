@@ -177,7 +177,7 @@ get an A, B, or C.
     - 6 problem set points
     - 3 total exam points
 
-Lecture participation impacts your grade seaprately. First, calculate your
+Lecture participation impacts your grade separately. First, calculate your
 letter grade from above. Then apply:
 
 - `+` grade modifier: 9-10 lectures (A section), 17-20 lectures (B section)
@@ -207,12 +207,12 @@ the grades they earned.
     - Lab scores: 2, 2, 2, 2, 1 (9)
     - Problem set scores: 3, 3, 3, 3, 3 (15) 
     - Exam scores: 2, 1, 1 (4)
-    - Lecture participation: 13 (in B section)
+    - Lecture participation: 17 (in B section)
 - C- grade example:
     - Lab scores: 3, 2, 3, 2, 0 (10)
     - Problem set scores: 1, 2, 3, 3, 3 (12) 
     - Exam scores: 1, 1, 1 (3)
-    - Lecture participation: 7 (in B section)
+    - Lecture participation: 10 (in B section)
 - F grade example:
     - Lab scores: 2, 2, 2, 2, 1 (9)
     - Problem set scores: 3, 3, 3, 3, 3 (15) 
