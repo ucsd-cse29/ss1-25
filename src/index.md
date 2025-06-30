@@ -18,7 +18,11 @@ system calls, 3) software tools to manage and interact with code and programs.
     - Section A (Joe): Wed 10am-1:50pm (link on Canvas)
     - Section B (Olivia): Wed 2pm-5:50pm in [CSE](https://map.concept3d.com/?id=1005#!m/164780?share) B250
 - Exams and final exam: See [exams](#exams) below
-- Professor office hours: TBD
+- Professor office hours: 
+  - Olivia: 
+    - Tuesday, 1-2pm (CSE 2217)
+    - Thursday, 4-5pm (CSE 2217)
+  - Joe: TBD
 - Office hours: TBD
 - Q&A forum: [Piazza](https://piazza.com/class/mc9db96ku3v39f/)
 - Textbook/readings:
@@ -29,6 +33,8 @@ system calls, 3) software tools to manage and interact with code and programs.
 ## Schedule
 
 ### Week 1
+- **Announcements**
+  - Submit the [welcome survey](https://docs.google.com/forms/d/e/1FAIpQLSf4cPi9KY2owL5EQZyM2D1pfKYcPL1iDDfMvIsyU1PZs-2TXw/viewform?usp=header) before lab on Wednesday of Week 1.
 
 - **Readings**
   - [The UNIX Command Line](https://diveintosystems.org/book/Appendix2/cmdln_basics.html)
