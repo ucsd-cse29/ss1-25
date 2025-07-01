@@ -135,10 +135,12 @@ Pass** (2 points), **Partial Pass** (1 point), or
 
 We don't have a traditionally-scheduled final exam for this course (you can
 ignore the block provided in Webreg).  Instead, in the last few days of the
-summer session, you'll have the opportunity to retake **up to two** of the exams
-from during the quarter to improve your score up to a **Full Pass** regardless
-of the score on the first attempt. The questions on the retakes may be different
-than the original exam, but will test the same learning outcomes. 
+summer session, you'll have the opportunity to retake an exam from during the
+quarter to improve your score up to a **Full Pass** regardless of the score on
+the first attempt (originally this said up to two; due to constraints of summer
+session this is likely to just be 1 retake attempt). The questions on the
+retakes may be different than the original exam, but will test the same
+learning outcomes. 
 
 For the in-person section, exams will be proctored through the [Triton Testing
 Center CBTF](https://tritontesting.ucsd.edu/cbtf/index.html). For the remote
