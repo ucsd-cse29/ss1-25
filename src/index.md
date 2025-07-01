@@ -22,7 +22,8 @@ system calls, 3) software tools to manage and interact with code and programs.
   - Olivia: 
     - Tuesday, 1-2pm (CSE 2217)
     - Thursday, 4-5pm (CSE 2217)
-  - Joe: TBD
+  - Joe:
+    - Tuesday & Thursday, 9:30-10:30am ([Zoom](https://ucsd.zoom.us/j/3144231375))
 - Office hours: TBD
 - Q&A forum: [Piazza](https://piazza.com/class/mc9db96ku3v39f/)
 - Textbook/readings:
