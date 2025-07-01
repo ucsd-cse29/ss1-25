@@ -34,8 +34,6 @@ system calls, 3) software tools to manage and interact with code and programs.
 ## Schedule
 
 ### Week 1
-- **Class Material**
-  - Remote section: [Code Repository](https://github.com/ucsd-cse29/ss1-25-01-w1t-bits-ascii)
 - **Announcements**
   - Submit the [welcome survey](https://docs.google.com/forms/d/e/1FAIpQLSf4cPi9KY2owL5EQZyM2D1pfKYcPL1iDDfMvIsyU1PZs-2TXw/viewform?usp=header) before lab on Wednesday of Week 1.
 
@@ -47,6 +45,7 @@ system calls, 3) software tools to manage and interact with code and programs.
 - **Lecture Materials**
   - Monday
     - __Olivia's Lecture:__ [Demo](./lec/week1/demo1_06_30_2025.c) | [Annotated Slides](./lec/week1/29-ss1-25-l1-annotated.pdf) | [Recording](https://podcast.ucsd.edu/watch/s125/cse29_b00/1)
+    - __Joe's Lecture__: [Code Repository](https://github.com/ucsd-cse29/ss1-25-01-w1t-bits-ascii)
 
 
 ## Course Components
