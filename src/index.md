@@ -42,7 +42,7 @@ system calls, 3) software tools to manage and interact with code and programs.
   - [Arrays and Strings (In C)](https://diveintosystems.org/book/C1-C_intro/arrays_strings.html)
   - [Binary and Data Representation (Sec 4.1-4.6)](https://diveintosystems.org/book/C4-Binary/bases.html)
 
-**Lecture Materials**
+- **Lecture Materials**
   - [Podcast 1](https://podcast.ucsd.edu/watch/s125/cse29_b00/1)
   - [Lecture 1 Annotated Slides](./lec/week1/29-ss1-25-l1-annotated.pdf)
   - [Lecture 1 Demo](./lec/week1/demo1_06_30_2025.c)
