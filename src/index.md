@@ -45,12 +45,9 @@ system calls, 3) software tools to manage and interact with code and programs.
 - **Lecture Materials**
   - Monday
     - __Olivia's Lecture:__ [Demo](./lec/week1/demo1_06_30_2025.c) | [Annotated Slides](./lec/week1/29-ss1-25-l1-annotated.pdf) | [Recording](https://podcast.ucsd.edu/watch/s125/cse29_b00/1)
-    - __Joe's Lecture__: [Code Repository](https://github.com/ucsd-cse29/ss1-25-01-w1t-bits-ascii) | [Q & A](https://docs.google.com/document/d/1nVz9xIbZQzzIzZ_r2F4ay2aIwOtxhz-6ZDVhr3JVSsk/edit?tab=t.0)
   - Tuesday
     - __Olivia's Lecture:__ [Demo](./lec/week1/demo2_07_01_2025.c) | [Annotated Slides](./lec/week1/29-ss1-25-l2-annotated.pdf) | [Recording](https://podcast.ucsd.edu/watch/s125/cse29_b00/2)
-  - Misc materials:
-    - [How computers store data](./lec/week1/how-computers-store-data.pdf)
-    - [ASCII Conversion Chart](https://raw.githubusercontent.com/ucsd-cse29/ss1-25-01-w1t-bits-ascii/main/ASCII-Conversion-Chart.pdf)
+    - __Joe's Lecture__: [Code Repository](https://github.com/ucsd-cse29/ss1-25-01-w1t-bits-ascii) | [Q & A](https://docs.google.com/document/d/1nVz9xIbZQzzIzZ_r2F4ay2aIwOtxhz-6ZDVhr3JVSsk/edit?tab=t.0) | [Lecture Notes](./lec/week1/how-computers-store-data.pdf) | [ASCII Conversion Chart](https://raw.githubusercontent.com/ucsd-cse29/ss1-25-01-w1t-bits-ascii/main/ASCII-Conversion-Chart.pdf)
 
 - **Lab Materials**
   - [Lab 1 Manual](https://docs.google.com/document/d/1-eR37VIpBk92DXjr2VfBVM_fYrJBSO9hme5_81MgSEw/edit?tab=t.0)
