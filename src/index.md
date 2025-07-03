@@ -24,7 +24,15 @@ system calls, 3) software tools to manage and interact with code and programs.
     - Thursday, 4-5pm (CSE 2217)
   - Joe:
     - Tuesday & Thursday, 9:30-10:30am ([Zoom](https://ucsd.zoom.us/j/3144231375))
-- Office hours: TBD
+- Office hours:
+  - Nick:
+    - Tuesday, 2-3pm (CSB 004)
+  - Joey:
+    - Thursday, 2-3pm (CSB 004)
+  - Miles:
+    - Friday, 1-2pm (remote)
+  - Danial:
+    - Friday, 2-3pm (remote)
 - Q&A forum: [Piazza](https://piazza.com/class/mc9db96ku3v39f/)
 - Textbook/readings:
   - Required (and free): [Dive Into Systems](https://diveintosystems.org/book/), plus additional readings we will assign (all free/online)
