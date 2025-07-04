@@ -30,7 +30,7 @@ system calls, 3) software tools to manage and interact with code and programs.
   - Joey:
     - Thursday, 2-3pm (CSB 004)
   - Miles:
-    - Friday, 1-2pm (remote)
+    - Friday, 1-2pm [(remote join link)](https://ucsd.zoom.us/j/8310840482)
   - Danial:
     - Friday, 2-3pm [(remote join link)](https://ucsd.zoom.us/j/93928457758)
 - Q&A forum: [Piazza](https://piazza.com/class/mc9db96ku3v39f/)
