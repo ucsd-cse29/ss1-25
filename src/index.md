@@ -32,7 +32,7 @@ system calls, 3) software tools to manage and interact with code and programs.
   - Miles:
     - Friday, 1-2pm (remote)
   - Danial:
-    - Friday, 2-3pm (remote)
+    - Friday, 2-3pm [(remote join link)](https://ucsd.zoom.us/j/93928457758)
 - Q&A forum: [Piazza](https://piazza.com/class/mc9db96ku3v39f/)
 - Textbook/readings:
   - Required (and free): [Dive Into Systems](https://diveintosystems.org/book/), plus additional readings we will assign (all free/online)
@@ -69,7 +69,8 @@ system calls, 3) software tools to manage and interact with code and programs.
   - Wednesday
     - __Olivia's Lecture:__ [Demo](./lec/week1/demo3_07_02_2025.c) | [Annotated Slides](./lec/week1/29-ss1-25-l3-annotated.pdf) | [Recording](https://podcast.ucsd.edu/watch/s125/cse29_b00/3)
   - Thursday
-    - __Joe's Lecture__: [Code Repository](https://github.com/ucsd-cse29/ss1-25-01-w1r-utf8-strings-binary)
+    - __Joe's Lecture:__ [Code Repository](https://github.com/ucsd-cse29/ss1-25-01-w1r-utf8-strings-binary) | [Lecture Notes](https://docs.google.com/document/d/1avTViEIdMti3XL_G6B1Ph9bfYlUSqwa2YzLMh4WNYQ8/edit?tab=t.0)
+    - __Olivia's Lecture:__ [Demo](./lec/week1/demo4_07_03_2025.c) | [Annotated Slides](./lec/week1/29-ss1-25-l4-annotated.pdf) | [Recording](https://podcast.ucsd.edu/watch/s125/cse29_b00/4)
 
 - **Lab Materials**
   - [Lab 1 Manual](https://docs.google.com/document/d/1-eR37VIpBk92DXjr2VfBVM_fYrJBSO9hme5_81MgSEw/edit?tab=t.0)
