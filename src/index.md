@@ -49,7 +49,10 @@ system calls, 3) software tools to manage and interact with code and programs.
   - [Processes](https://diveintosystems.org/book/C13-OS/processes.html)
   - [File I/O](https://diveintosystems.org/book/C2-C_depth/IO.html#_file_inputoutput), [Text Files](https://diveintosystems.org/book/C2-C_depth/IO.html#_using_text_files_in_c), and [stdio functions](https://diveintosystems.org/book/C2-C_depth/IO.html#_standard_and_file_io_functions_in_stdio_h)
 
-  
+- **Lecture Materials**
+  - Monday
+    - __Olivia's Lecture:__ [Demo](./lec/week2/demo5_07_07_2025.c) | [Annotated Slides](./lec/week2/29-ss1-25-l2-annotated.pdf) | [Recording](https://podcast.ucsd.edu/watch/s125/cse29_b00/5)
+
 
 ### Week 1
 - **Announcements**
