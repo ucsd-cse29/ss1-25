@@ -26,7 +26,7 @@ system calls, 3) software tools to manage and interact with code and programs.
     - Tuesday & Thursday, 9:30-10:30am ([Zoom](https://ucsd.zoom.us/j/3144231375))
 - Office hours:
   - Nick:
-    - Tuesday, 2-3pm (CSB 004)
+    - Tuesday, 2-3pm (CSB 004 in-person) ([remote](https://ucsd.zoom.us/j/5554943714))
   - Joey:
     - Thursday, 2-3pm (CSB 004)
   - Miles:
