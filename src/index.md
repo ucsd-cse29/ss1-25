@@ -55,7 +55,9 @@ system calls, 3) software tools to manage and interact with code and programs.
   - Tuesday
     - __Joe's Lecture__: [Code Repository](https://github.com/ucsd-cse29/ss1-25-03-w2t-array-args-processes) | [Lecture Notes](https://docs.google.com/document/d/1YgrquktKnyHhonTIemQH9Y00mYNfhj0aLkTS6VX8XVw/edit?tab=t.0)
     - __Olivia's Lecture:__ [Demo](./lec/week2/demo6_07_08_2025.c) | [Annotated Slides](./lec/week2/29-ss1-25-l6-annotated.pdf) | [Recording](https://podcast.ucsd.edu/watch/s125/cse29_b00/6)
-
+  - Wednesday
+    - __Olivia's Lecture:__ [Demo](./lec/week2/demo7_07_09_2025.c) | [Annotated Slides](./lec/week2/29-ss1-25-l7-annotated.pdf) | [Recording](https://podcast.ucsd.edu/watch/s125/cse29_b00/7)
+ 
 
 
 ### Week 1
