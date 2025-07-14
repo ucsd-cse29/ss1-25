@@ -41,6 +41,15 @@ system calls, 3) software tools to manage and interact with code and programs.
 
 ## Schedule
 
+### Week 3
+
+- **Readings**
+  - [Command Line Arguments](https://diveintosystems.org/book/C2-C_depth/advanced_cmd_line_args.html)
+  - [Structs](https://diveintosystems.org/book/C2-C_depth/structs.html)
+  - [Dynamic Memory Allocation](https://diveintosystems.org/book/C2-C_depth/dynamic_memory.html)
+  - [Pointer Arithmetic](https://diveintosystems.org/book/C2-C_depth/advanced_pointer_arithmetic.html)
+  - [Debugging Memory with Valgrind](https://diveintosystems.org/book/C3-C_debug/valgrind.html)
+
 ### Week 2
 
 - **Readings**
