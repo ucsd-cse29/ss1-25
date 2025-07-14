@@ -153,16 +153,17 @@ participation in these discussions for credit. Note that you must
 1, 2, or 3 at the end of each lab based on you and your group's participation
 and completion of the lab activities. 
 
-**Late or Missed Labs**: Being late to lab or leaving early can
-result in a score below 3 depending on its impact on the group and what was
-missed. If you miss lab, you'll still be held accountable for understanding the
-relevant material (via exams). You can miss one lab without it
-impacting your grade (see [Grading](#grading) below). There is no way to make up
-a lab, even for illness, travel, or emergencies. My preference would be to
-require all 5 labs for an A, and have some kind of excused absences. However,
-tracking excused absences doesn't really scale, so the “one for any reason”
-policy is how we handle it. You don't need to justify your missed labs. Contact
-the instructor if you'll miss more than 1 lab for unavoidable reasons.
+**Late or Missed Labs**: Being late to lab or leaving early can result in a
+score below 3 depending on its impact on the group and what was missed. If you
+miss lab, you'll still be held accountable for understanding the relevant
+material (via exams). You can miss one lab without it impacting your grade (see
+[Grading](#grading) below). There is no way to make up a lab, even for illness,
+travel, or emergencies. My preference would be to require all 5 labs for an A,
+and have some kind of excused absences. However, tracking excused absences
+doesn't really scale, so the “one for any reason” policy is how we handle it.
+You don't need to justify your missed labs, and please **do not** send medical
+or other personal documents to the course staff. Contact the instructor if
+you'll miss more than 1 lab for unavoidable reasons.
 
 ### Exams
 
