@@ -53,6 +53,9 @@ system calls, 3) software tools to manage and interact with code and programs.
 - **Lecture Materials**
   - Monday
     - __Olivia's Lecture:__ [Demo](./lec/week3/demo9_07_14_2025.c) | [Annotated Slides](./lec/week3/29-ss1-25-l9-annotated.pdf) | [Blank Slides](./lec/week3/29-ss1-25-l9.pdf) | [Recording](https://podcast.ucsd.edu/watch/s125/cse29_b00/9)
+  - Tuesday
+    - __Joe's Lecture__: [Code Repository](https://github.com/ucsd-cse29/ss1-25-05-w3t-malloc-heap) | [Lecture Notes](./lec/week3/05-struct-malloc.pdf)
+
 
 ### Week 2
 
@@ -71,7 +74,7 @@ system calls, 3) software tools to manage and interact with code and programs.
   - Wednesday
     - __Olivia's Lecture:__ [Demo](./lec/week2/demo7_07_09_2025.c) | [Annotated Slides](./lec/week2/29-ss1-25-l7-annotated.pdf) | [Recording](https://podcast.ucsd.edu/watch/s125/cse29_b00/7)
   - Thursday
-    - __Joe's Lecture__: [Code Reponsitory](https://github.com/ucsd-cse29/ss1-25-04-w2r-pointer-fork-process) | [Lecture Notes](https://docs.google.com/document/d/1CanEbO0JtLqDV1LrOQuW1byYPLzDXon8i-X9kF2r0RA/edit?tab=t.0) 
+    - __Joe's Lecture__: [Code Repository](https://github.com/ucsd-cse29/ss1-25-04-w2r-pointer-fork-process) | [Lecture Notes](https://docs.google.com/document/d/1CanEbO0JtLqDV1LrOQuW1byYPLzDXon8i-X9kF2r0RA/edit?tab=t.0) 
     - __Olivia's Lecture__: [Demo](./lec/week2/demo8_07_10_2025.c) | [Annotated Slides](./lec/week2/29-ss1-25-l8-annotated.pdf) | [Recording](https://podcast.ucsd.edu/watch/s125/cse29_b00/8)
 
 - **Lab Materials**
