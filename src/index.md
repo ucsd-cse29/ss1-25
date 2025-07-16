@@ -55,8 +55,12 @@ system calls, 3) software tools to manage and interact with code and programs.
     - __Olivia's Lecture:__ [Demo](./lec/week3/demo9_07_14_2025.c) | [Annotated Slides](./lec/week3/29-ss1-25-l9-annotated.pdf) | [Blank Slides](./lec/week3/29-ss1-25-l9.pdf) | [Recording](https://podcast.ucsd.edu/watch/s125/cse29_b00/9)
   - Tuesday
     - __Joe's Lecture__: [Code Repository](https://github.com/ucsd-cse29/ss1-25-05-w3t-malloc-heap) | [Lecture Notes](./lec/week3/05-struct-malloc.pdf)
-    - __Olivia's Lecture:__ [Demo](./lec/week3/demo10_07_15_2025.c) | [Annotated Slides](./lec/week3/29-ss1-25-l10-annotated.pdf) | [Blank Slides](./lec/week3/29-ss1-25-l10.pdf) | [Recording](https://podcast.ucsd.edu/watch/s125/cse29_b00/6)
+    - __Olivia's Lecture:__ [Demo](./lec/week3/demo10_07_15_2025.c) | [Annotated Slides](./lec/week3/29-ss1-25-l10-annotated.pdf) | [Blank Slides](./lec/week3/29-ss1-25-l10.pdf) | [Recording](https://podcast.ucsd.edu/watch/s125/cse29_b00/10)
+  - Wednesday
+    - __Olivia's Lecture:__ [Demo](./lec/week3/demo11_07_16_2025.c) | [Annotated Slides](./lec/week3/29-ss1-25-l11-annotated.pdf) | [Blank Slides](./lec/week3/29-ss1-25-l11.pdf) | [Recording](https://podcast.ucsd.edu/watch/s125/cse29_b00/11)
 
+- **Lab Materials**
+  - [Lab 3 Worksheets](https://docs.google.com/spreadsheets/d/1nHyS-2Qllfknt608qj7vtdSc9Fwrti5zAuKuLcaz3Qc)
 
 ### Week 2
 
