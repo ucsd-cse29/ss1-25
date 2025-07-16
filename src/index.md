@@ -55,6 +55,7 @@ system calls, 3) software tools to manage and interact with code and programs.
     - __Olivia's Lecture:__ [Demo](./lec/week3/demo9_07_14_2025.c) | [Annotated Slides](./lec/week3/29-ss1-25-l9-annotated.pdf) | [Blank Slides](./lec/week3/29-ss1-25-l9.pdf) | [Recording](https://podcast.ucsd.edu/watch/s125/cse29_b00/9)
   - Tuesday
     - __Joe's Lecture__: [Code Repository](https://github.com/ucsd-cse29/ss1-25-05-w3t-malloc-heap) | [Lecture Notes](./lec/week3/05-struct-malloc.pdf)
+    - __Olivia's Lecture:__ [Demo](./lec/week3/demo10_07_15_2025.c) | [Annotated Slides](./lec/week3/29-ss1-25-l10-annotated.pdf) | [Blank Slides](./lec/week3/29-ss1-25-l10.pdf) | [Recording](https://podcast.ucsd.edu/watch/s125/cse29_b00/6)
 
 
 ### Week 2
