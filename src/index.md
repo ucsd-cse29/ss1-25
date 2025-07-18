@@ -58,6 +58,9 @@ system calls, 3) software tools to manage and interact with code and programs.
     - __Olivia's Lecture:__ [Demo](./lec/week3/demo10_07_15_2025.c) | [Annotated Slides](./lec/week3/29-ss1-25-l10-annotated.pdf) | [Blank Slides](./lec/week3/29-ss1-25-l10.pdf) | [Recording](https://podcast.ucsd.edu/watch/s125/cse29_b00/10)
   - Wednesday
     - __Olivia's Lecture:__ [Demo](./lec/week3/demo11_07_16_2025.c) | [Annotated Slides](./lec/week3/29-ss1-25-l11-annotated.pdf) | [Blank Slides](./lec/week3/29-ss1-25-l11.pdf) | [Recording](https://podcast.ucsd.edu/watch/s125/cse29_b00/11)
+  - Thursday
+    - __Joe's Lecture__: [Code Repository](https://github.com/ucsd-cse29/ss1-25-06-w3r-struct-string-list) | [Lecture Notes](./lec/week3/06-struct-string-list.pdf)
+    - __Olivia's Lecture:__ [Demo](./lec/week3/demo12_07_17_2025.c) | [Annotated Slides](./lec/week3/29-ss1-25-l12-annotated.pdf) | [Blank Slides](./lec/week3/29-ss1-25-l12.pdf) | [Recording](https://podcast.ucsd.edu/watch/s125/cse29_b00/12)
 
 - **Lab Materials**
   - [Lab 3 Worksheets](https://docs.google.com/spreadsheets/d/1nHyS-2Qllfknt608qj7vtdSc9Fwrti5zAuKuLcaz3Qc)
