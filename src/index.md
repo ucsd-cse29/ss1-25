@@ -50,6 +50,9 @@ system calls, 3) software tools to manage and interact with code and programs.
   - [Pointer Arithmetic](https://diveintosystems.org/book/C2-C_depth/advanced_pointer_arithmetic.html)
   - [Debugging Memory with Valgrind](https://diveintosystems.org/book/C3-C_debug/valgrind.html)
 
+- **Past Videos**:
+  - [Lists 1](https://podcast.ucsd.edu/watch/fa24/cse29_a00/14) | [Lists 2](https://podcast.ucsd.edu/watch/fa24/cse29_a00/15)
+
 - **Lecture Materials**
   - Monday
     - __Olivia's Lecture:__ [Demo](./lec/week3/demo9_07_14_2025.c) | [Annotated Slides](./lec/week3/29-ss1-25-l9-annotated.pdf) | [Blank Slides](./lec/week3/29-ss1-25-l9.pdf) | [Recording](https://podcast.ucsd.edu/watch/s125/cse29_b00/9)
