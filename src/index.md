@@ -41,6 +41,12 @@ system calls, 3) software tools to manage and interact with code and programs.
 
 ## Schedule
 
+### Week 4
+
+- **Lecture Materials**
+  - Monday
+    - __Olivia's Lecture:__ [Demo](./lec/week4/demo13_07_21_2025.c) | [Annotated Slides](./lec/week4/29-ss1-25-l13-annotated.pdf) | [Blank Slides](./lec/week4/29-ss1-25-l13.pdf) | [Recording](https://podcast.ucsd.edu/watch/s125/cse29_b00/13)
+
 ### Week 3
 
 - **Readings**
