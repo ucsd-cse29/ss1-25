@@ -43,6 +43,13 @@ system calls, 3) software tools to manage and interact with code and programs.
 
 ### Week 4
 
+- **Readings**
+  - [Debugging with GDB](https://diveintosystems.org/book/C3-C_debug/gdb.html)
+  - [GDB Commands in Detail](https://diveintosystems.org/book/C3-C_debug/gdb_commands.html)
+  - [The void* Type](https://diveintosystems.org/book/C2-C_depth/advanced_voidstar.html)
+  - [Writing C Libraries](https://diveintosystems.org/book/C2-C_depth/advanced_writing_libraries.html)
+  - [Make and Makefiles](https://diveintosystems.org/book/Appendix2/makefiles.html)
+
 - **Lecture Materials**
   - Monday
     - __Olivia's Lecture:__ [Demo](./lec/week4/demo13_07_21_2025.c) | [Annotated Slides](./lec/week4/29-ss1-25-l13-annotated.pdf) | [Blank Slides](./lec/week4/29-ss1-25-l13.pdf) | [Recording](https://podcast.ucsd.edu/watch/s125/cse29_b00/13)
