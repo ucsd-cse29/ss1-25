@@ -51,10 +51,11 @@ system calls, 3) software tools to manage and interact with code and programs.
   - [Make and Makefiles](https://diveintosystems.org/book/Appendix2/makefiles.html)
 
 - **Lecture Materials**
-  - Tuesday
-    - __Joe's Lecture:__ [Repo](https://github.com/ucsd-cse29/ss1-25-07-w4t-list-valgrind-realloc)
   - Monday
     - __Olivia's Lecture:__ [Demo](./lec/week4/demo13_07_21_2025.c) | [Annotated Slides](./lec/week4/29-ss1-25-l13-annotated.pdf) | [Blank Slides](./lec/week4/29-ss1-25-l13.pdf) | [Recording](https://podcast.ucsd.edu/watch/s125/cse29_b00/13)
+  - Tuesday
+    - __Joe's Lecture:__ [Repo](https://github.com/ucsd-cse29/ss1-25-07-w4t-list-valgrind-realloc) | [Lecture Notes](./lec/week4/07-list-realloc.pdf)
+    - __Olivia's Lecture:__ [Demo](./lec/week4/demo14_07_22_2025.c) | [Annotated Slides](./lec/week4/29-ss1-25-l14-annotated.pdf) | [Blank Slides](./lec/week4/29-ss1-25-l14.pdf) | [Recording](https://podcast.ucsd.edu/watch/s125/cse29_b00/14)
 
 ### Week 3
 
