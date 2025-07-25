@@ -58,6 +58,9 @@ system calls, 3) software tools to manage and interact with code and programs.
     - __Olivia's Lecture:__ [Demo](./lec/week4/demo14_07_22_2025.c) | [Annotated Slides](./lec/week4/29-ss1-25-l14-annotated.pdf) | [Blank Slides](./lec/week4/29-ss1-25-l14.pdf) | [Recording](https://podcast.ucsd.edu/watch/s125/cse29_b00/14)
   - Wednesday
     - __Olivia's Lecture:__ [Annotated Slides](./lec/week4/29-ss1-25-l15-annotated.pdf) | [Blank Slides](./lec/week4/29-ss1-25-l15.pdf) | [Recording](https://podcast.ucsd.edu/watch/s125/cse29_b00/15)
+  - Thursday
+    - __Joe's Lecture:__ [Repo](https://github.com/ucsd-cse29/ss1-25-08-w4r-malloc-impl) | [Lecture Notes](./lec/week4/08-malloc-impl.pdf)
+    - __Olivia's Lecture:__ [Annotated Slides](./lec/week4/29-ss1-25-l16-annotated.pdf) | [Blank Slides](./lec/week4/29-ss1-25-l16.pdf) | [Recording](https://podcast.ucsd.edu/watch/s125/cse29_b00/16)
 
 - **Lab Materials**
   - [Lab 4 Worksheets](https://docs.google.com/spreadsheets/d/17NECQdZd4XjMA3aJqCPxEJNQF33wHLCSOJ2WUeqNVcI)
