@@ -47,6 +47,9 @@ system calls, 3) software tools to manage and interact with code and programs.
   - Tuesday
     - __Joe's Lecture:__ [Repo](https://github.com/ucsd-cse29/ss1-25-09-w5t-malloc-impl-cont) | [Lecture Notes](./lec/week5/09-malloc-cont.pdf)
 
+- **Lab Materials**
+  - [Lab 5 Worksheets](https://docs.google.com/spreadsheets/d/1LNryzDehipSceoCCRxIgG3y3lc8MTYM1s9-tLhGtpCM/edit?usp=sharing)
+
 ### Week 4
 
 - **Readings**
