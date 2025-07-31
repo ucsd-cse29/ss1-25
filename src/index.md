@@ -52,6 +52,7 @@ system calls, 3) software tools to manage and interact with code and programs.
   - Wednesday
     - __Olivia's Lecture:__ [Review Notes](./lec/week5/29-ss1-25-l19.pdf) | [Recording](https://podcast.ucsd.edu/watch/s125/cse29_b00/19)
   - Thursday
+    - __Joe's Lecture:__ Review and Bonus AMA
     - __Olivia's Lecture:__ [Review Notes](./lec/week5/29-ss1-25-l20.pdf) | [Recording](https://podcast.ucsd.edu/watch/s125/cse29_b00/20)
 
 - **Lab Materials**
